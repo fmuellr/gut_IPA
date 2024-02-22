@@ -17,13 +17,8 @@ Mice (ages 6-8 weeks) caecum content was collected and faecal DNA was extracted 
 As 16S rRNA sequencing provides only taxonomic but not functional observations. Therefore, [Piphillin](https://github.com/dmcskim/pyphillin) was used to predict functional metagenomic data based on annotated genome databases. PUMA-v1.2 was used to annotate the predicted pathway abundances from Piphillin output, and STAMP-v2.1.3 was used to carry out statistical analysis. 
 
 Piphillin analysis was done using the web server (no longer available). Input: ASV abundance tables and FASTA sequencing files. Each group was run separately due to size limitations. 
-As Piphillin provides 
 
 ## Figures and associated scripts
 - Extended Data Fig 4: Piphillin analysis reveals increased abundance of specific metabolic pathways.
 
 - Supplementary data 2: 16S-Seq percentage abundances
-
-
-
-
